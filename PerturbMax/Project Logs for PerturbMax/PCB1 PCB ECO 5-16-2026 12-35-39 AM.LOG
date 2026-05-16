@@ -1,0 +1,182 @@
+Added Component: Designator=*(IRF7470)
+Add component: Footprint Not Found CAPC2012X94N
+Add component: Footprint Not Found CAPC2012X94N
+Add component: Footprint Not Found CAPC2012X94N
+Add component: Footprint Not Found C0603K
+Add component: Footprint Not Found C0603K
+Add component: Footprint Not Found CAPC2012X94N
+Add component: Footprint Not Found C0603K
+Add component: Footprint Not Found C0603K
+Add component: Footprint Not Found CAPC2012X94N
+Add component: Footprint Not Found C0603K
+Add component: Footprint Not Found C0603K
+Add component: Footprint Not Found CAPC2012X94N
+Add component: Footprint Not Found CAPC2012X94N
+Add component: Footprint Not Found CAPC2012X94N
+Add component: Footprint Not Found CAPC2012X94N
+Add component: Footprint Not Found CAPC2012X94N
+Add component: Footprint Not Found CAPC2012X94N
+Add component: Footprint Not Found CAPC2012X94N
+Add component: Footprint Not Found CAPC2012X94N
+Add component: Footprint Not Found C0603K
+Add component: Footprint Not Found C0603K
+Add component: Footprint Not Found DIO_UCLAMP0571P.TNT
+Add component: Footprint Not Found LED-0603
+Add component: Footprint Not Found DIO_UCLAMP0571P.TNT
+Add component: Footprint Not Found LED-0603
+Add component: Footprint Not Found DIOM5336X265N
+Add component: Footprint Not Found LED-0603
+Add component: Footprint Not Found FB_LI0603G121R-10
+Added Component: Designator=F*(Polyfuse)
+Add component: Footprint Not Found AMASS_XT60PW-F
+Add component: Footprint Not Found HANDSON_KF301-2P
+Add component: Footprint Not Found TE_640455-4
+Added Component: Designator=J5(HRO_TYPE-C-31-M-12)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TYPE-C-31-M-12/HRO+Electronics+Co.%252C+Ltd./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "HRO Electronics Co., Ltd."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TYPE-C-31-M-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TYPE-C-31-M-12/HRO+Electronics+Co.%252C+Ltd./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found HANDSON_KF301-2P
+Add component: Footprint Not Found HANDSON_KF301-2P
+Added Component: Designator=R1(Resistor_SMD)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RR0816P-102-D/Susumu/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RR0816P-102-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1608 Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RR0816P-102-D/Susumu/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found RESC1608X50N
+Add component: Footprint Not Found RESC1608X50N
+Add component: Footprint Not Found RESC1608X50N
+Add component: Footprint Not Found RESC1608X50N
+Add component: Footprint Not Found RESC1608X50N
+Add component: Footprint Not Found RESC1608X50N
+Add component: Footprint Not Found RESC1608X50N
+Add component: Footprint Not Found RESC1608X50N
+Add component: Footprint Not Found RESC1608X50N
+Add component: Footprint Not Found RESC1608X50N
+Add component: Footprint Not Found RESC1608X50N
+Add component: Footprint Not Found RESC1608X50N
+Add component: Footprint Not Found RESC1608X50N
+Add component: Footprint Not Found RESC1608X50N
+Add component: Footprint Not Found RESC1608X50N
+Added Component: Designator=S1(SW_BUTT-2)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BUTT-2/Gravitech/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Gravitech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BUTT-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BUTT-2/Gravitech/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S2(SW_BUTT-2)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BUTT-2/Gravitech/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Gravitech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BUTT-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BUTT-2/Gravitech/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S3(SW_BUTT-2)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BUTT-2/Gravitech/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Gravitech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BUTT-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BUTT-2/Gravitech/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S4(SW_BUTT-2)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BUTT-2/Gravitech/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Gravitech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BUTT-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BUTT-2/Gravitech/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found XCVR_ESP32-S3-WROOM-1-N16R2
+Add component: Footprint Not Found SOT229P700X180-4N
+Add component: Footprint Not Found DPAK127P1490X440-8N
+Add component: Footprint Not Found DPAK127P1490X440-8N
+Add component: Footprint Not Found SOIC127P599X175-8N
+Add component: Footprint Not Found SOT229P700X180-4N
+Add component: Footprint Not Found SOTFL50P160X60-8N
+Added Net: Name=+12V_LF
+Added Net: Name=+12V_MAIN
+Added Net: Name=3V3_BAT
+Added Net: Name=3V3_USB
+Added Pin To Net: NetName=3V3 Pin=R1-1
+Added Net: Name=3V3
+Added Pin To Net: NetName=Boot Pin=S1-2
+Added Net: Name=Boot
+Added Pin To Net: NetName=CC1 Pin=J5-A5
+Added Net: Name=CC1
+Added Pin To Net: NetName=CC2 Pin=J5-B5
+Added Net: Name=CC2
+Added Pin To Net: NetName=D+ Pin=J5-A6
+Added Pin To Net: NetName=D+ Pin=J5-B6
+Added Net: Name=D+
+Added Pin To Net: NetName=D- Pin=J5-A7
+Added Pin To Net: NetName=D- Pin=J5-B7
+Added Net: Name=D-
+Added Net: Name=DC_BLOCKED
+Added Pin To Net: NetName=EN Pin=S2-2
+Added Net: Name=EN
+Added Pin To Net: NetName=Gate Pin=*-4
+Added Net: Name=Gate
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=GND Pin=*-3
+Added Pin To Net: NetName=GND Pin=J5-A1_B12
+Added Pin To Net: NetName=GND Pin=J5-B1_A12
+Added Pin To Net: NetName=GND Pin=J5-S1
+Added Pin To Net: NetName=GND Pin=J5-S2
+Added Pin To Net: NetName=GND Pin=J5-S3
+Added Pin To Net: NetName=GND Pin=J5-S4
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Pin To Net: NetName=GND Pin=S4-2
+Added Net: Name=GND
+Added Net: Name=HF_OUT
+Added Net: Name=IO2
+Added Pin To Net: NetName=IO14 Pin=S3-1
+Added Net: Name=IO14
+Added Pin To Net: NetName=IO15 Pin=S4-1
+Added Net: Name=IO15
+Added Net: Name=IO21
+Added Net: Name=IO35
+Added Net: Name=IS_L
+Added Net: Name=IS_R
+Added Net: Name=LF_EN
+Added Net: Name=LF_LPWM
+Added Net: Name=LF_OUT1
+Added Net: Name=LF_OUT2
+Added Net: Name=LF_RPWM
+Added Pin To Net: NetName=NetC8_1 Pin=F*-1
+Added Net: Name=NetC8_1
+Added Net: Name=NetC14_1
+Added Pin To Net: NetName=NetD2_POS Pin=R1-2
+Added Net: Name=NetD2_POS
+Added Net: Name=NetD4_POS
+Added Net: Name=NetD_POS
+Added Net: Name=NetF*_0
+Added Net: Name=NetR5_2
+Added Net: Name=NetR9_2
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NFC_DRAIN Pin=*-5
+Added Pin To Net: NetName=NFC_DRAIN Pin=*-6
+Added Pin To Net: NetName=NFC_DRAIN Pin=*-7
+Added Pin To Net: NetName=NFC_DRAIN Pin=*-8
+Added Net: Name=NFC_DRAIN
+Added Net: Name=Output
+Added Net: Name=RXD2
+Added Net: Name=ST
+Added Net: Name=TXD2
+Added Net: Name=USB_D_N
+Added Net: Name=USB_D_P
+Added Pin To Net: NetName=VBUS Pin=J5-A4_B9
+Added Pin To Net: NetName=VBUS Pin=J5-B4_A9
+Added Net: Name=VBUS
+Added Class: Name=Sheet1
+Added Differential Pair: Name=USB_D
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3

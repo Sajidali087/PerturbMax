@@ -1,0 +1,31 @@
+Added Component: Designator=J3(2_Pin_Terminal_Block)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/KF301-2P/Handson+Technology/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Handson Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "KF301-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/KF301-2P/Handson+Technology/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J6(2_Pin_Terminal_Block)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/KF301-2P/Handson+Technology/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Handson Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "KF301-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/KF301-2P/Handson+Technology/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7(2_Pin_Terminal_Block)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/KF301-2P/Handson+Technology/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Handson Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "KF301-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/KF301-2P/Handson+Technology/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin F*-0
+Added Pin To Net: NetName=LF_OUT1 Pin=J3-1
+Added Pin To Net: NetName=LF_OUT2 Pin=J3-2
+Added Pin To Net: NetName=DC_BLOCKED Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=HF_OUT Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Member To Class: ClassName=Sheet1 Member=Component J3 LF Coil Connector
+Added Member To Class: ClassName=Sheet1 Member=Component J6 Antenna
+Added Member To Class: ClassName=Sheet1 Member=Component J7 HF_OUT
