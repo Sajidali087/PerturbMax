@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GND Pin=J6-2
+Change Component Designator: OldDesignator=* NewDesignator=M
+Change Component Description : Designator=U5 Old Description=Microchip TC4420COA,MOSFET Power Driver 6A,4.5 to 18V,Non-Inverting,8-Pin SOIC New Description=Microchip TC4420COA,MOSFET Power Driver 6A,4.5 to 18V,Non-Inverting,8-Pin SOIC | Microchip Technology Inc. TC4420COA
+Change Component Description : Designator=J4 Old Description=MTA-100 HEADER - TIN, 04P MTA100 HDR ASSY SQ R/A POL New Description=MTA-100 HEADER - TIN, 04P MTA100 HDR ASSY SQ R/A POL | TE Connectivity 640455-4
+Added Component: Designator=T1(Test_Point)
+Added Component: Designator=T2(Test_Point)
+Added Component: Designator=T3(Test_Point)
+Added Component: Designator=T4(Test_Point)
+Added Component: Designator=T5(Test_Point)
+Added Component: Designator=T6(Test_Point)
+Added Component: Designator=T7(Test_Point)
+Added Component: Designator=T8(Test_Point)
+Added Component: Designator=T9(Test_Point)
+Added Pin To Net: NetName=+12V_MAIN Pin=J6-2
+Added Pin To Net: NetName=+12V_MAIN Pin=T1-1
+Added Pin To Net: NetName=3V3_BAT Pin=T2-1
+Added Pin To Net: NetName=3V3 Pin=T3-1
+Added Pin To Net: NetName=Gate Pin=T4-1
+Added Pin To Net: NetName=NFC_DRAIN Pin=T5-1
+Added Pin To Net: NetName=DC_BLOCKED Pin=T6-1
+Added Pin To Net: NetName=BAT+ Pin=T7-1
+Added Pin To Net: NetName=3V3_USB Pin=T8-1
+Added Pin To Net: NetName=VBUS Pin=T9-1
+Added Member To Class: ClassName=Sheet1 Member=Component T1 Test_Point
+Added Member To Class: ClassName=Sheet1 Member=Component T2 Test_Point
+Added Member To Class: ClassName=Sheet1 Member=Component T3 Test_Point
+Added Member To Class: ClassName=Sheet1 Member=Component T4 Test_Point
+Added Member To Class: ClassName=Sheet1 Member=Component T5 Test_Point
+Added Member To Class: ClassName=Sheet1 Member=Component T6 Test_Point
+Added Member To Class: ClassName=Sheet1 Member=Component T7 Test_Point
+Added Member To Class: ClassName=Sheet1 Member=Component T8 Test_Point
+Added Member To Class: ClassName=Sheet1 Member=Component T9 Test_Point

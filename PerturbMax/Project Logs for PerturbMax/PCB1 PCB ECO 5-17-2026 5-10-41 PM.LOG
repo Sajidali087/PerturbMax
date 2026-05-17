@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=J6-2
+Change Component Description : Designator=U7 Old Description=1.6-V to 5.5-V, 40-mâ„ New Description=1.6-V to 5.5-V, 40-mâ„|, 2.5-A, low-IQ, priority power multiplexer
+Change Component Description : Designator=U5 Old Description=Microchip TC4420COA,MOSFET Power Driver 6A,4.5 to 18V,Non-Inverting,8-Pin SOIC New Description=Microchip TC4420COA,MOSFET Power Driver 6A,4.5 to 18V,Non-Inverting,8-Pin SOIC | Microchip Technology Inc. TC4420COA
+Change Component Description : Designator=J4 Old Description=MTA-100 HEADER - TIN, 04P MTA100 HDR ASSY SQ R/A POL New Description=MTA-100 HEADER - TIN, 04P MTA100 HDR ASSY SQ R/A POL | TE Connectivity 640455-4
+Added Pin To Net: NetName=+12V_MAIN Pin=J6-2
+Added Rule: Name=Schematic Supply Nets_4

@@ -1,0 +1,3 @@
+Added Component: Designator=T10(Test_Point)
+Added Pin To Net: NetName=GND Pin=T10-1
+Added Member To Class: ClassName=Sheet1 Member=Component T10 Test_Point
